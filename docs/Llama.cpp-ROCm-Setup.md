@@ -1,7 +1,7 @@
 # Building llama.cpp with ROCm Support
 
-> **⚠️ IMPORTANT: Arch-Based Linux Only**
-> This project and all documentation are designed exclusively for **Arch-based Linux distributions** (e.g., Arch Linux, Manjaro, EndeavourOS). Other distributions are not supported.
+> **⚠️ IMPORTANT: Arch-Based Linux Only**  
+> This project and all documentation are designed exclusively for **Arch-based Linux distributions** (e.g., Arch Linux, Manjaro, EndeavourOS).
 
 This document provides a comprehensive guide on how to build llama.cpp with AMD ROCm support on a Linux system (Arch Linux based).
 

@@ -1,7 +1,7 @@
 # AMD ROCm GPU Health Check
 
-> **⚠️ IMPORTANT: Arch-Based Linux Only**
-> This project and all documentation are designed exclusively for **Arch-based Linux distributions** (e.g., Arch Linux, Manjaro, EndeavourOS). Other distributions are not supported.
+> **⚠️ IMPORTANT: Arch-Based Linux Only**  
+> This project and all documentation are designed exclusively for **Arch-based Linux distributions** (e.g., Arch Linux, Manjaro, EndeavourOS).
 
 A reference guide for verifying AMD GPU and ROCm setup on Arch Linux. Each command checks a specific aspect of the hardware and driver stack.
 

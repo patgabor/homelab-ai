@@ -1,7 +1,7 @@
 # HomeLab Visual Studio Code Setup Guide
 
-> **⚠️ IMPORTANT: Arch-Based Linux Only**
-> This project and all documentation are designed exclusively for **Arch-based Linux distributions** (e.g., Arch Linux, Manjaro, EndeavourOS). Other distributions are not supported.
+> **⚠️ IMPORTANT: Arch-Based Linux Only**  
+> This project and all documentation are designed exclusively for **Arch-based Linux distributions** (e.g., Arch Linux, Manjaro, EndeavourOS).
 
 This guide covers configuring Visual Studio Code for the HomeLab environment, including development tools, AI model integration with Kilo Code, and optional extensions.
 

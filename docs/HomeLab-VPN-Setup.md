@@ -1,7 +1,7 @@
 # Network Architecture: NetBird Routing & Private DNS Integration
 
-> **⚠️ IMPORTANT: Arch-Based Linux Only**
-> This project and all documentation are designed exclusively for **Arch-based Linux distributions** (e.g., Arch Linux, Manjaro, EndeavourOS). Other distributions are not supported.
+> **⚠️ IMPORTANT: Arch-Based Linux Only**  
+> This project and all documentation are designed exclusively for **Arch-based Linux distributions** (e.g., Arch Linux, Manjaro, EndeavourOS).
 
 This document outlines the technical configuration and traffic flow for a remote client accessing a private **K3s HA Cluster** via a NetBird Network Router.
 
